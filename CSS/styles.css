@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+    color: #66BFBF;
+    margin: 0;
+    padding-top: 150px;
+}
+
+h2 {
+    margin: 0;
+    font-size: 2.5;
+    text-align: center;
+    color: #66BFBF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+p {
+    color: #40514E;
+    line-height: 2;
+}
+
+hr {
+    border-style: dotted;
+    border-bottom: none;
+    border-color: #b9ccc9;
+    border-width: .5rem;
+    width: 4%;
+    margin: 100px auto;
+
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 0px;
+    height: 100vh;
+}
+
+.mountain {
+    position: relative;
+    top: 65px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.intro {
+    width: 25%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+
+.profile-photo {
+    width: 15%;
+    border-radius: 500px;
+}
+
+.skills {
+    text-align: left;
+}
+
+.skill-photo {
+    width: 25%;
+    border-radius: 100px;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row1 {
+    margin: 100px auto ;
+    width: 50%;
+}
+
+.skill-row2 {
+    margin: 100px auto ;
+    width: 50%;
+}
+
+.contact-para {
+    width: 30%;
+    margin: 40px auto 60px;
+
+}
+
+.btn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #66BFBF;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+background: rgb(30, 139, 125);
+text-decoration: none;
+}
+ 
+.bottom-container {
+    text-align: center;
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+a {
+    color: rgb(30, 139, 125);
+    text-decoration: none;
+    margin: 10px 25px;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.copyright {
+    color: rgb(239, 245, 244);
+    font-size: .75rem;
+}
